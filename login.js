@@ -3,7 +3,7 @@
 //Finalizando sistema de login
 
 function login(nome, email){
-    return 'Bem vindo!'
+    return 'Bem vindo!'+nome+' '+email
 }
 
 //  Sistema de login completo
