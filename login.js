@@ -6,5 +6,10 @@ function login(nome, email){
     return 'Bem vindo!'
 }
 
-// Sistema de login completo
-// Retornando o nome do usuário quando logado
+//  Sistema de login completo
+//  Retornando o nome do usuário quando logado
+
+//  TESTE BRANCH
+
+//  ARRUMANDO SISTEMA DE LOGIN
+//  DO CURSO DE GIT
